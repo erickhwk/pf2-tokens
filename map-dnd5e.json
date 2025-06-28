@@ -1,0 +1,1824 @@
+{
+  "dnd5e.monsters": {
+    "M4eX4Mu5IHCr3TMf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-black-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-black-adult.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "cGM3iVYTtCsYXjzO": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-blue-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-blue-adult.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "7vswgicsiMfS4ZTS": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-brass-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-brass-adult.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "VCuG0Z3MrO8kfDU0": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-bronze-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-bronze-adult.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "irz834sqAxRihtSG": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-copper-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-copper-adult.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "MO382D2sxtAIuUC5": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-gold-adult.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-gold-adult.webp"
+    },
+    "GP8JMSDugRxuLOD2": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-adult.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "ZyIBOoZZD0nDaO2s": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-red-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-red-adult.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "geM2F7HvVGhtk3h4": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-silver-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-silver-adult.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "3uIursokd3KdZrW3": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-white-adult.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-white-adult.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "shhHtE7b92PefCWB": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/alghollthu-master.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/aberrant/eldritch/alghollthu-master.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "qNdFhY3JOkCfhG3d": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-black-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-black-ancient.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "SNT0JNVSngUTsj4m": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-blue-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-blue-ancient.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "pAuiNDr7nvpsW9nG": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-brass-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-brass-ancient.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "35Y64PEFFdvQS0ra": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-bronze-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-bronze-ancient.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "u0FWdplSOMTXGnN1": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-copper-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-copper-ancient.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "ckOF3vQrnjFnZIDU": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-gold-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-gold-ancient.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "zjqjcRWKDMc59Tnx": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-ancient.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "vFeFRlF2FOgf2HIL": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-red-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-red-ancient.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "gf9QbHdMAfvFtxcv": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-silver-ancient.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-silver-ancient.webp"
+    },
+    "aTITHYYxthuZBPBn": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-white-ancient.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-white-ancient.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "eORmAXuV5v3nWsQL": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/animated-armor.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/animated-armor.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "Wcsjbl25uiUsyQwn": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/ankhrav.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/ankhrav.webp"
+    },
+    "NB6wUgVqeOQtsQKu": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/arboreal/arboreal-regent.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/arboreal/arboreal-regent.webp"
+    },
+    "m4H3hjamBNMH09S9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/angel/astral-deva.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/divine/angel/astral-deva.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "UR2gWLFHmFwG7ReH": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/arboreal/awakened-tree.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/plant/arboreal/awakened-tree.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "IiEDPMWqBlzkggYD": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/fire/azer.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/fire/azer.webp"
+    },
+    "oQvORD924obyPdCc": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/badger.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/badger.webp"
+    },
+    "UTuKdTah1DKfPwWe": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ball-python.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/ball-python.webp"
+    },
+    "uZ8NrRenwYZ4qNf6": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/balor.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/balor.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "9ggQBmAKXraOtz7S": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/barbazu.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/barbazu.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "hqj2yXtgwt64v3Lj": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/basilisk.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/basilisk.webp"
+    },
+    "x47ZnpHfYl0ptDM9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/air/behir.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/air/behir.webp"
+    },
+    "D5WjGwKskeUT8HXa": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/black-bear.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/black-bear.webp"
+    },
+    "NwQpeeaMxAC3fRft": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/black-pudding.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/black-pudding.webp"
+    },
+    "jOANE6M0My6UJF4e": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/blink-dog.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/blink-dog.webp"
+    },
+    "gKRtiMNAjZiCVfwz": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/bloodseeker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/bloodseeker.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "lZR4lhNmYSf89s4Q": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/boar.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/boar.webp"
+    },
+    "SsuCaF2fIEoDdFA3": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/boar.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/boar.webp"
+    },
+    "QtJairF0h18BRhEM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/bugbear-tormentor.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/bugbear-tormentor.webp"
+    },
+    "1ES45ODWg3pCrkzv": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/bulette.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/bulette.webp"
+    },
+    "FQMFuzzSh73d0Nrd": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/camel.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/camel.webp"
+    },
+    "5kZNNWzZ6HrfKuWf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/centaur.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/centaur.webp"
+    },
+    "KC4tYOolARhajP18": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/centipede-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/centipede-swarm.webp"
+    },
+    "kr6r8bhSehACPfZ8": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/chimera-red.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/chimera-red.webp"
+    },
+    "P6qC8jB3pnEH0tIE": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/chuul.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/aberrant/eldritch/chuul.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "YOqhbf8WsX0jH9Fu": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/golem/clay-golem.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/golem/clay-golem.webp"
+    },
+    "HPUO3weiwRQnql0d": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/cloaker.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/cloaker.webp"
+    },
+    "Aw2wmqGIatxe2ImI": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/cloud-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/cloud-giant.webp"
+    },
+    "EpYl7qifM5pq6W6B": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/cockatrice.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/cockatrice.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "S0zDrv6lbnwWaz9E": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/cockroach-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cockroach-swarm.webp"
+    },
+    "MADGs8pWMVyyFOf1": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/cornugon.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/cornugon.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "8aCTKP5qaBPFOqxM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/crocodile.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/crocodile.webp"
+    },
+    "ZM1P6LoYSwMiIJN9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/deep-gnome-rockwarden.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/deep-gnome-rockwarden.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "3YwmvDupMwycWNCO": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/deinosuchus.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/deinosuchus.webp"
+    },
+    "EYiQZ3rFL25fEJY5": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/dire-wolf.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/dire-wolf.webp"
+    },
+    "5P1VGAZQwOilwZQf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/genie/djinni.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/genie/djinni.webp"
+    },
+    "mWbrPhcKOz6oLXMV": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/doppelganger.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/doppelganger.webp"
+    },
+    "ijsfYEDqSuwQXwNN": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragon-turtle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragon-turtle.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "llSG0Hi4eGlRlQ4o": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/dream-spider.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/dream-spider.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "kz2fW9xb5CcvXLX4": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/dretch.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/dretch.webp"
+    },
+    "1OQbxoZI5BtlB2ME": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/drider.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/aberrant/eldritch/drider.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "1vaBSMUfOy6JPJ14": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/drow-fighter.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/drow-fighter.webp"
+    },
+    "EMvcuOpu7ABCmBWi": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/drow-rogue.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/drow-rogue.webp"
+    },
+    "KOHVWl5RU9XBR8Jb": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/nymph/dryad.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/nymph/dryad.webp"
+    },
+    "iGBdQA3IuKsurcUy": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/duergar-sharpshooter.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/duergar-sharpshooter.webp"
+    },
+    "BUCfQ7ihaXX75Vai": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/earth/mephit-dust.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/elemental/earth/mephit-dust.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "AJiJW7K957aJJCN6": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/eagle.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/eagle.webp"
+    },
+    "EI8w6XjzCZICkox9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/eagle.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/eagle.webp"
+    },
+    "fnkPNfIpS62LqOu4": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/eagle.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/eagle.webp"
+    },
+    "LTomFUTBrkRi0Pj5": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/genie/efreeti.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/genie/efreeti.webp"
+    },
+    "4OeZZguYgJcsZoM9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/elasmosaurus.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/elasmosaurus.webp",
+          "scaleX": 3,
+          "scaleY": 3
+        }
+      }
+    },
+    "nEC1BRwM8Lx9hLXW": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/elder-sphinx.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/elder-sphinx.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "8SMQl75HLjhuSeau": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/fire/elemental-inferno.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/fire/elemental-inferno.webp"
+    },
+    "jLPhaBnMtAbB5dp1": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/elephant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/elephant.webp"
+    },
+    "3o2rQBqpzjIHmrBW": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/erinys.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/erinys.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "KLCkHep28HBfdsky": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/ettin.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/ettin.webp"
+    },
+    "KtM6IV9I5l1MWUDk": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/evangelist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/evangelist.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "fkCNtbvPOMd7mipF": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/faerie-dragon.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/faerie-dragon.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "45Z5kogZEhawX1Ey": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/fire-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/fire-giant.webp"
+    },
+    "oJCOB9X2BPsBkWW5": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/fire/mephit-fire.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/elemental/fire/mephit-fire.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "Z0GiAv3bJxTjUfjM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/flash-beetle.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/flash-beetle.webp"
+    },
+    "Hm4o2FgPZsdbXjLq": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/golem/flesh-golem.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/golem/flesh-golem.webp"
+    },
+    "Buxe6dDK5Mw7kxe6": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/frost-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/frost-giant.webp"
+    },
+    "0m8QyDN52qw9zzOM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/earth/gargoyle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/elemental/earth/gargoyle.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "3fzQVYQhXxCXRa2o": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/gelatinous-cube.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/gelatinous-cube.webp"
+    },
+    "1zzRQps9jZdLZGqI": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/gelugon.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/gelugon.webp"
+    },
+    "IyIybE5t2adMEVUM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/ghast.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/ghast.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "qoFEjfrANBdrCP6m": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/ghost-commoner.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/ghostly/ghost-commoner.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "OBujQLLPSmlJiZnL": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/ghoul.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/ghoul.webp"
+    },
+    "NpvwE1feOHyEqAbP": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/anaconda-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/anaconda-giant.webp"
+    },
+    "cJGY1ZywUOo6heNR": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/badger-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/badger-giant.webp"
+    },
+    "SoK7l5zJQKxTVgLL": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/bat-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/bat-giant.webp"
+    },
+    "Hn8FFLEzscgT7azz": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/centipede-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/centipede-giant.webp"
+    },
+    "AOJvmk1IchxNxQzP": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/crab-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/crab-giant.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "9bHoR8k5D2DKHaF3": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/eagle-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/eagle-giant.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "rLl22hYeAH3ljhdI": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/fly-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/fly-giant.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "pLzSh4dA517Tn73E": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/frilled-lizard-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/frilled-lizard-giant.webp"
+    },
+    "kSAi2KRonL4G4JpO": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/amphibian/frog-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/amphibian/frog-giant.webp"
+    },
+    "p9Xnr820UAZBOIVN": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/octopus-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/octopus-giant.webp"
+    },
+    "q1YJIeIt6rK8fCKn": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rat-giant.webp"
+    },
+    "z0zvgcIugizwcuxJ": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rat-giant.webp"
+    },
+    "GxgIVRX5GbVTifiF": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/scorpion-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/scorpion-giant.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "c9XDGsTJRy9HUaxQ": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/seahorse-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/seahorse-giant.webp"
+    },
+    "f9JbhBfWucrY2eDA": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/tarantula-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/tarantula-giant.webp"
+    },
+    "Ixo5shumxy4I9qyD": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/amphibian/toad-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/amphibian/toad-giant.webp"
+    },
+    "ZW39DE2zI3TXVYC9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/viper-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/viper-giant.webp"
+    },
+    "4ZlUHt4xmB7GdPfk": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/vulture-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/vulture-giant.webp"
+    },
+    "fkJ8Z8zi2JtlcHh9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/vulture-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/vulture-giant.webp"
+    },
+    "4tl0s2SnaLjkoDiI": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/wasp-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/wasp-giant.webp"
+    },
+    "8VXxqeBvN54rPh81": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/wolverine-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/wolverine-giant.webp"
+    },
+    "8pX2JhWUpTNNRBVx": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/gibbering-mouther.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/eldritch/gibbering-mouther.webp"
+    },
+    "OGPHF4sCVOAi87TU": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/glabrezu.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/glabrezu.webp"
+    },
+    "R2GPY9BhRmmwZwkh": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/gnoll-hunter.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/gnoll-hunter.webp"
+    },
+    "TjWQOgI3A4UAl7lC": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-warrior.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/goblin-warrior.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "v99wOosUJjUgcUNF": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/goliath-spider.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/goliath-spider.webp"
+    },
+    "nZthq6WHLhcdu3te": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/gorgon.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/gorgon.webp"
+    },
+    "K5cKmPoFkpuOotis": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/gorilla.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/gorilla.webp"
+    },
+    "fqbFYtbtkrL53FOC": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/gray-ooze.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/gray-ooze.webp"
+    },
+    "siBUEAj4UVdaiH6p": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/great-white-shark.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/great-white-shark.webp"
+    },
+    "F0yILX4xKKt4dxKY": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/great-white-shark.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/great-white-shark.webp"
+    },
+    "saq6WM959pKHuaqP": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hag/green-hag.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hag/green-hag.webp"
+    },
+    "h052EIIUmRwJum65": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/griffon.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/griffon.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "1cwfYaACm5F0l4y3": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/grindylow.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/grindylow.webp"
+    },
+    "omcDpBoB69esCXeM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/grizzly-bear.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/grizzly-bear.webp"
+    },
+    "YTpL2c3NO4sOn2UA": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/guard-dog.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/guard-dog.webp"
+    },
+    "8ExSFCar5Lbhdo7u": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/naga-guardian.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/naga-guardian.webp"
+    },
+    "sLdpiuaZF8lujJQy": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/hamatula.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/hamatula.webp"
+    },
+    "CqQ6pXQA5WXZNOm3": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/harpy.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/harpy.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "iSCL4Q82ivnYelzc": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/hell-hound.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/hell-hound.webp"
+    },
+    "ec3lhsNv1ZRu7Qaq": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/hezrou.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/hezrou.webp"
+    },
+    "9g4N9sjyh8Ql46to": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/hill-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/hill-giant.webp"
+    },
+    "T2PExQE84ZcIbAXz": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/hippogriff.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/hippogriff.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "6qnT52lZtZblgGw8": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/hobgoblin-soldier.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/hobgoblin-soldier.webp"
+    },
+    "ZQTCZfTV9ZoTjNCU": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/homunculus.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/homunculus.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "aAqfEHPiVbhMwZ6j": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/hyaenodon.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/hyaenodon.webp"
+    },
+    "K4vsSlHqbBAHUDHY": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/hydra.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/hydra.webp"
+    },
+    "cDr1JtzEV26bP5Ym": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/hyena.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/hyena.webp"
+    },
+    "ESEm3fGUfSKjzVUc": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/water/mephit-ice.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/elemental/water/mephit-ice.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "dLQiESMsfsXijD5c": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/imp.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/imp.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "oDspGxRQFBhE74L2": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/air/invisible-stalker.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/air/invisible-stalker.webp"
+    },
+    "h98AuPfomEPcCibP": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/golem/iron-golem.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/golem/iron-golem.webp"
+    },
+    "5ngbctIMeEnuC1p1": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-warrior.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-warrior.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "kVg37NlPcACAzjCT": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/kraken.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/kraken.webp"
+    },
+    "MnoL59nOOfYatAkQ": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/lamia.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/lamia.webp"
+    },
+    "tubcO7kaQ4w0soxS": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/lemure.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/lemure.webp"
+    },
+    "AijNdqMurWxDxUSl": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/leopard.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/leopard.webp"
+    },
+    "XiSWKZzAUxdmFOLL": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/lesser-death.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/lesser-death.webp"
+    },
+    "bfh29vIEoGzI240e": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/lich.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/lich.webp"
+    },
+    "hjhERRzafCiFFVLA": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/lion.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/lion.webp"
+    },
+    "namJz755U1EhvEJa": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/water/living-waterfall.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/water/living-waterfall.webp"
+    },
+    "57DofLgRQx16ARoc": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/lizardfolk-defender.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/lizardfolk-defender.webp"
+    },
+    "MiYRAIHwm9It1in8": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/mammoth.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/mammoth.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "MAoCGF5VkQwhmgvI": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/manticore.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/manticore.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "egsSDYbqoLCelb0J": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/marilith.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/marilith.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "eiifqZwYGi71r2Yl": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/medusa.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/medusa.webp"
+    },
+    "MWlwLlKXh8jUUxOL": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/megalodon.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/megalodon.webp"
+    },
+    "8MuL8xisavJW9bnw": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/megaprimatus.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/megaprimatus.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "KUpbXdn1XmHEeOPk": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/aquatic/merfolk-warrior.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/aquatic/merfolk-warrior.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "hx240PG5r5qpRet3": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/mimic.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/mimic.webp"
+    },
+    "pOPQU4UnR27zA0jf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/minotaur.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/minotaur.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "55PkbskG5iBZGrgR": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/moose.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/moose.webp"
+    },
+    "hQt3qIahnB1Odb40": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/moose.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/moose.webp"
+    },
+    "GpeQYtlo8oGvGlkM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/morlock.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/morlock.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "t8WYD7ak07X7xpx8": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/mummy-guardian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/mummy-guardian.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "UFW8M3JHzHkxUEGM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/mummy-pharaoh.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/mummy-pharaoh.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "rUg5JMnKNnZNBAq9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/nalfeshnee.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/nalfeshnee.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "xvh2UOKv1bh03Gih": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hag/night-hag.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hag/night-hag.webp"
+    },
+    "5SgVGhQBswgWRwsF": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/nightmare.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/nightmare.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "xBhG7Dos3tkg9jWz": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/ochre-jelly.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/ochre-jelly.webp"
+    },
+    "eIGowKTkEBC9gUzx": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/ogre-warrior.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/ogre-warrior.webp"
+    },
+    "L1w8yBkInMscfJ3F": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/onidoshi.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/onidoshi.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "HB49mCOVBXwWeKWQ": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/orc-warrior.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/orc-warrior.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "ciLSItjCpwT7nMmk": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/orca.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/orca.webp"
+    },
+    "AnseLn7HwuP97grf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/osyluth.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/osyluth.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "jcZblJ6lqtW0ePxe": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/otyugh.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/otyugh.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "zY3W5MG7FjssENf6": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/owlbear.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/owlbear.webp"
+    },
+    "EIgAW1dWVPpyWLUh": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/pegasus.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/pegasus.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "KXG5XLIwKhn1V0Y5": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/piranha-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/piranha-swarm.webp"
+    },
+    "RCv5y7iWlfNxkinx": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/pit-fiend.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/pit-fiend.webp"
+    },
+    "XEByBLeOkDgL3mrr": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/angel/planetar.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/divine/angel/planetar.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "hb6pjvdCNYmLLp8V": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/polar-bear.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/polar-bear.webp"
+    },
+    "PtotS52HpHX596cZ": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/worm-purple.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/worm-purple.webp"
+    },
+    "bwtkdzavdNHISgp4": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/quasit.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/quasit.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "ZaP1H91t4FzbRqR5": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/quetz-couatl.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/quetz-couatl.webp"
+    },
+    "qXzMsRTHEodqO8l2": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/raja-rakshasa.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/raja-rakshasa.webp"
+    },
+    "8ihbbjkaOFTPbI73": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rat-swarm.webp"
+    },
+    "g40zN6xMye6bSS94": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/raven-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/raven-swarm.webp"
+    },
+    "3UUNbGiG2Yf1ZPxM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/reef-octopus.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/reef-octopus.webp"
+    },
+    "VBzqw2rOUvTuNOPI": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/remorhaz.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/remorhaz.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "SBCe2BSa6opTS5M4": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rhinoceros.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rhinoceros.webp"
+    },
+    "Bupo3E9X5Ptx6XeT": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/riding-horse.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/riding-horse.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "rz8UTUnFT87BsAFR": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/riding-horse.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/riding-horse.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "PHO4J98zK2p4KNyc": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/riding-pony.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/riding-pony.webp"
+    },
+    "rjqk7ToMD8sGr3n4": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/ringhorn-ram.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/ringhorn-ram.webp"
+    },
+    "p980augbCIdpK9ZX": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/roc.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/roc.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "qZyLwdx7lj5d1wfD": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/roper.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/roper.webp"
+    },
+    "y8sRU8Ks2lcrGsaf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rosethorn-ram.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rosethorn-ram.webp"
+    },
+    "WJsxqbHU28D64lWT": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/rust-monster.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/rust-monster.webp"
+    },
+    "yVNPVJIBpQ2Mp3Xa": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/fire/salamander.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/elemental/fire/salamander.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "CHEUjiYrVM9X0vIT": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/samsaran-anchorite.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/samsaran-anchorite.webp"
+    },
+    "8xhuJXYMnlQD7LF6": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/satyr.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/satyr.webp"
+    },
+    "lyNBFmJdbh4NLRzz": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/aquatic/sea-devil-brute.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/aquatic/sea-devil-brute.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "OQqybZoMeDFn5AFD": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hag/sea-hag.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hag/sea-hag.webp"
+    },
+    "QGcQYZbVl4bWzi4E": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/shadow.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/ghostly/shadow.webp"
+    },
+    "gGeLeV411iQ5Yijs": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/shambler.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/shambler.webp"
+    },
+    "z85EsGS2GVWj46qE": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/mechanical/clockwork-soldier.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/mechanical/clockwork-soldier.webp"
+    },
+    "TaK6nQMGqZ0y8gt7": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/fungal/basidirond.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/plant/fungal/basidirond.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "xple5bvGj42uGgdd": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/skeletal-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/skeletal-giant.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "7KJ5vjnp0FJrdu6T": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/skeletal-horse.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/skeletal-horse.webp"
+    },
+    "nU8GN8La8DCt8SDb": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/skeleton-guard.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/skeleton-guard.webp"
+    },
+    "tYYoifu9teGLetVI": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/smilodon.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/smilodon.webp"
+    },
+    "lOYt73eaJojBDxAV": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/angel/solar.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/divine/angel/solar.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "PuPo4H4Dcxigf0fY": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/specter.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/ghostly/specter.webp"
+    },
+    "6wbasdWWqtXeIAyD": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/sphinx.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/sphinx.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "4udpeEneFSZK9NTB": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/spider-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/spider-swarm.webp"
+    },
+    "BAT6ld8qJZetpycL": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/naga-spirit.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/naga-spirit.webp"
+    },
+    "MUpBNDoJEr09bLaO": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/fairy/sprite.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fey/fairy/sprite.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "UthHOT7QfZfEIUue": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/water/mephit-steam.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/elemental/water/mephit-steam.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        }
+      }
+    },
+    "SOin81NWijHRvXFK": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/stone-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/stone-giant.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "z3gSIXHHWYaHjfBT": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/golem/stone-golem.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/golem/stone-golem.webp"
+    },
+    "sApYLZj9PTZ40wJr": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/earth/stone-mauler.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/earth/stone-mauler.webp"
+    },
+    "68bAMIpe4jvDeR9G": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/storm-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/storm-giant.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "banHjKDMCegbUwYE": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/air/storm-lord.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/air/storm-lord.webp"
+    },
+    "VmdyZDjqAc8vdncY": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/succubus.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/succubus.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "SXXvwaLBNuzBymp3": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/terror-bird.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/terror-bird.webp"
+    },
+    "dZZFmG8LiBlgWi76": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/tick-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/tick-swarm.webp"
+    },
+    "B7lBOr1AahNZs4a6": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/tiefling-adept.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/tiefling-adept.webp"
+    },
+    "FayqbnjBMszO6Pat": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/tiger.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/tiger.webp"
+    },
+    "e5IQxSJO7ySEDdSH": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/triceratops.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/triceratops.webp"
+    },
+    "ZHAFrnCwCz17dmLc": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/troll/troll.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/troll/troll.webp"
+    },
+    "HlddcPm4cWptj3ka": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/tyrannosaurus.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/tyrannosaurus.webp"
+    },
+    "G9PENY6nw0xRxCJW": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/unicorn.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/unicorn.webp"
+    },
+    "PcZ0QjIG6bHpffp9": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/vampire-bat-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/vampire-bat-swarm.webp"
+    },
+    "DDO9lDCDtNHkfShP": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/vampiric/vampire-count.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/vampiric/vampire-count.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "zpaZb7I8alY32vWV": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/vampiric/vampire-spawn-rogue.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/vampiric/vampire-spawn-rogue.webp"
+    },
+    "gaSTr7DFZJLmgI2J": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/leshy/vine-leshy.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/leshy/vine-leshy.webp"
+    },
+    "7EmUVycEASn7SFL0": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/fungal/violet-fungus.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/fungal/violet-fungus.webp"
+    },
+    "D5rwVIxmfFrdyyxT": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/viper.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/viper.webp"
+    },
+    "XfQMBoTh892XSnCX": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/viper-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/viper-swarm.webp"
+    },
+    "6oc29m5uzzzb0pk3": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/vrock.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/vrock.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "T1xZTDCGuvMBSq8d": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/war-horse.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/war-horse.webp"
+    },
+    "VBkp2rGQKvMcCOus": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/warg.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/warg.webp"
+    },
+    "YUaprnengdFDNG8P": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/wasp-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/wasp-swarm.webp"
+    },
+    "WOdeacKCYVhgLDuN": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/weasel.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/weasel.webp"
+    },
+    "aKt7vFAS1J0x3FQm": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/web-lurker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/web-lurker.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "oRBnO5OHoOZzlCOr": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/werecreature/werebear.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/werecreature/werebear.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "J9hgSaZODGjrNl9B": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/werecreature/wereboar.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/werecreature/wereboar.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "CrnUJhTbkdZjCZsH": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/werecreature/wererat.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/werecreature/wererat.webp"
+    },
+    "zIr3NaNF0mWz5Ahq": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/werecreature/weretiger.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/werecreature/weretiger.webp"
+    },
+    "7tRhrxuknTpHpYcA": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/werecreature/werewolf.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/werecreature/werewolf.webp"
+    },
+    "rbyp54px2D0ql4QK": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/wight.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/wight.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "8KSVpQZyzius93ko": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/will-o-wisp.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/will-o-wisp.webp"
+    },
+    "yGTh874etxUckmAf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/winter-wolf.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/winter-wolf.webp"
+    },
+    "yawTeS8u2FCfzzZH": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/wolf.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/wolf.webp"
+    },
+    "ET4PEVEiNJLU4f7c": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/wraith.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/ghostly/wraith.webp"
+    },
+    "7198siHjPJf8g0cG": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/drakes/wyvern.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/drakes/wyvern.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "2MZNHeOZweXAYbv1": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/earth/xorn.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/elemental/earth/xorn.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "IZMbiAHqQpzPo0CX": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-black-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-black-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "bcapsJdIhY5WktpT": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-black-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-black-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "najtPRiHLR6buSWe": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-blue-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-blue-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "mNijwXPMhwR7yYfc": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-blue-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-blue-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "azCbLQt5LAYwTI7U": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-brass-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-brass-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "FzvZ6xl3U9GoL9ju": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-brass-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-brass-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "hY9ptpO5Xl2tfkcj": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-bronze-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-bronze-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "NmQLj0zv4FmfuSan": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-bronze-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-bronze-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "AyvniEKtyroOe83p": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-copper-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-copper-young.webp",
+          "scaleX": 3,
+          "scaleY": 3
+        }
+      }
+    },
+    "qW8cBwg7ghCA4Cw6": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-copper-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-copper-young.webp",
+          "scaleX": 3,
+          "scaleY": 3
+        }
+      }
+    },
+    "naSoHU9KbkgeNIwB": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-gold-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-gold-young.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "QSytPah5WKoFJ1zt": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-gold-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-gold-young.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
+    },
+    "KH6ZrUiUOKQCOlRH": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "85ahD1jEo9B3POaQ": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "zgWkII3VoE4AHCND": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-red-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-red-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "qrasJNDC7SGj7xzG": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-red-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-red-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "J1QVPd8POvcPaqx4": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-silver-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-silver-young.webp",
+          "scaleX": 3,
+          "scaleY": 3
+        }
+      }
+    },
+    "eykRfV85DQJoCkmc": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-silver-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-silver-young.webp",
+          "scaleX": 3,
+          "scaleY": 3
+        }
+      }
+    },
+    "vc2TAgIuq4yInjbf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-white-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-white-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "u1UQfHutP5eEKkjM": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-white-young.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-white-young.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "RenLfmDT2XlbCF4x": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/zombie-hulk.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/zombie-hulk.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
+    },
+    "NAISFPoNNgUCsEyW": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/zombie-shambler.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/zombie-shambler.webp"
+    },
+    "pozQUPTnLZW8epox": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rat.webp"
+    }
+  }
+}
