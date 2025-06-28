@@ -58,5 +58,6 @@
   },
   "protected": false,
   "manifest": "https://raw.githubusercontent.com/erickhwk/pf2-tokens/refs/heads/main/module.json",
+  "download": "https://raw.githubusercontent.com/erickhwk/pf2-tokens/refs/heads/main/pf2e-tokens-bestiaries.zip",
   "date": "202410201630"
 }
