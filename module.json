@@ -57,6 +57,6 @@
     }
   },
   "protected": false,
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/erickhwk/pf2-tokens/refs/heads/main/module.json",
   "date": "202410201630"
 }
